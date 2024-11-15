@@ -1,6 +1,9 @@
-# Spotify Clone
+# Spotify-Replica
 
 A simple music player that replicates basic Spotify functionality with features such as audio playback, playlist management, playback control, and track navigation.
+
+![Project Preview](images/demo.png)
+
 
 ## Features
 
